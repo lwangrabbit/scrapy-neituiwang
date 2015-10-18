@@ -1,0 +1,19 @@
+www.neitui.me03http://www.neitui.me/j/357519Web&amp;NodeJS工程师(up to 0.5%股权)杭州滨江Web&amp;NodeJS工程师<br>
+-1年以上前端开发经验，能独立搭建成熟的前端框架。-熟练使用传统型MVC框架中的一个：AngularJS/ember/backbone/其它, 对facebook react有研究并能很快上手<br>
+-有服务器端视图渲染jade/ejs/handlebars/express react View的经验<br>
+-熟悉Bootstrap3/pureCss等框架<br>
+-熟练使用CoffeeScript或其它同类型框架<br>
+-熟练使用Stylus/Sass/Less。<br>
+-能独立进行JS模块化编程，会使用Browserify,gulp<br>
+-熟练使用Git,Gitflow进行代码管理。<br>
+-熟练使用NodeJS<br>
+加分项：-熟练使用HTML5 Canvas画图者<br>
+-有过meteor框架经验<br>
+-熟悉svg绘制，有paper.js使用修改经验<br>
+-移动端事件处理hammer.js或相关框架<br>
+-Github上有对web相关项目的contribution或自己有repositories,关注并了解Github上web方面最前沿的技术的优缺点并拥有自己的看法<br>
+-想法多，逻辑思维清晰，有产品工程师的潜质者优先<br><br>
+诚恳的说，我们不需要码农，而是从技术角度的产品创造者；我们团队没有被动工作的人，早期团队每个人不仅自主驱动，还换位思考，主动参与到产品创造的讨论中；我们不喜欢安于现状的人，因为我们做的事业就是打破传统，改变一个行业的商业模式。<br><br>
+上述框架可以不懂(懂一部分)，但学习能力必须强，愿意接受新事物、新技术。<br>
+应聘须知<br>
+请提供你负责的上架App名称和下载地址，以及Github账号/技术博客/个人微博也请一并告知。[1-3年经验][10-25k]NiuChart全球移动数据分析与可视化的行业领导者杭州滨江移动互联网15人以下www.niuchart.com2015-10-18 17:08:14

@@ -1,0 +1,16 @@
+www.neitui.me03http://www.neitui.me/j/415453Quality Engineer北京海淀区The Red Hat Quality Engineering team is looking for an automation Quality Engineer to join us in Beijing, China. In this role, you will focus on testing Red Hat Enterprise Linux (RHEL). You'll create test plans, research new features, and develop automated test scripts. You will also perform acceptance, function, regression, integration, and performance testing on Red Hat Enterprise Linux (RHEL). Our team culture encourages you to come up with innovative solutions to problems and offers you the opportunity to work with some of the brightest engineers in open source. We'll need you to have a passion and desire for testing, scripting, and examining how things work internally.<br>
+Primary job responsibilities<br><br>
+    Research new features and test plan development<br>
+    Develop, review, and maintain automated test scripts and test cases, both manual and automatic<br>
+    Carry out automated test scripts; analyze and summarize the testing results<br>
+    Analyze, report, and track defects<br>
+    Operate automated test tools and debug software problems<br><br>
+Required skills<br><br>
+    Bachelor's degree with 3+ years professional experience or a master's degree with 2+ years professional experience<br>
+    3+ years of solid Linux experience<br>
+    2+ years of professional experience in software testing; development experience is a plus<br>
+    2+ years scripting experience with Bash, Perl, or Python<br>
+    Familiarity with a wide variety of operating system components, especially kernels<br>
+    Motivated with an ability to work under deadline pressure<br>
+    Excellent English communication skills, both written and verbal<br>
+    Professional experience with virtualization is an advantage[1-3年经验][20-30k]红帽软件（北京）有限公司北京海淀区工具软件1000以上http://www.redhat.com/zh/global/china2015-10-18 17:08:17

@@ -1,0 +1,14 @@
+www.neitui.me03http://www.neitui.me/j/412395高级JAVA开发工程师上海市长宁区临虹路168弄国际商务花园3号楼3楼岗位职责	<br>
+1、负责系统架构设计和优化。 <br>
+2、参与核心模块的编码开发与测试。 <br>
+3、帮助团队解决系统中出现的关键问题。 <br>
+4、提升团队的整体技术分析、设计与编码水准。 <br>
+5、根据需要完成相应技术文档。<br><br>
+技能要求	<br>
+1. 专科以上学历，3年以上J2EE实际应用项目并在里面负责业务模块开发经验； <br>
+2. 精通熟练J2EE主流架构SpringMVC、Hibernate技术等；精通webservice、SOA、rest、JMS、jdbc、JMX开发，熟悉J2EE规范，熟悉各种常用设计模式； <br>
+3. 丰富的Web开发经验，熟悉HTML、HTML5、java script、ajax、jsp、servlet、easyui、jstl； <br>
+4. 熟悉基于Tomcat、Jboss、Weblogic等应用服务器的开发与部署；  <br>
+5. 熟悉Oralce、mysql、mongodb等数据库开发； <br>
+6. 熟悉高并发、高可用、高扩展系统设计及优化经验者优先。 <br>
+7. 熟悉Linux/Windows平台。[5-10年经验][15-25k]上海博辕信息技术服务有限公司上海市长宁区临虹路168弄国际商务花园3号楼3楼移动互联网500-1000人www.boyuanitsm.com2015-10-18 17:08:20

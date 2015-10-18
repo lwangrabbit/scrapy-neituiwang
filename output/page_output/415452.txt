@@ -1,0 +1,17 @@
+www.neitui.me03http://www.neitui.me/j/415452虚拟化QE北京海淀区The Red Hat Quality Engineering team is seeking a Quality Engineer with advanced development skills to join us in Beijing, China and work on KVM testing. In this role, you will participate in creating test plans, researching new features, and developing automated test scripts. You'll also perform acceptance, function, regression, integration, and performance testing on Red Hat solutions. We'll need you to have a passion and desire for testing, scripting, and examining how things work internally, as you'll be encouraged to create innovative solutions to problems. This role is a great opportunity to work with some of the brightest engineers in the open source industry.<br>
+Primary job responsibilities<br><br>
+    Research new features and develop test plans<br>
+    Develop, review, and maintain automated test scripts and test cases (both manual and automatic)<br>
+    Implement automated test scripts; analyze and summarize the testing results<br>
+    Analyze, report, and track defects<br>
+    Debug software technical issues<br>
+    Operate automated test tools<br><br>
+Required skills<br><br>
+    Bachelor's degree with 3+ years of working experience, or a master's degree with 2+ years of working experience<br>
+    3+ years of experience developing solid skills in and knowledge of the Linux platform<br>
+    2+ years of working experience in software testing or development<br>
+    Prior experience with virtualization is a plus<br>
+    2+ years of solid scripting experience with Bash, Perl, or Python<br>
+    Familiarity with a wide variety of operating system components, specifically kernels<br>
+    Self-motivated, with an ability to work well under pressure<br>
+    Fluent English language skills, both written and verbal[1-3年经验][20-30k]红帽软件（北京）有限公司北京海淀区工具软件1000以上http://www.redhat.com/zh/global/china2015-10-18 17:08:17

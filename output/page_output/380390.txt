@@ -1,0 +1,21 @@
+www.neitui.me03http://www.neitui.me/j/380390云计算QE北京海淀区半年以上工作经验，熟悉linux,熟练掌握一门脚本语言，最好是python<br>
+Primary job responsibilities<br><br>
+    Develop automation framework and scripts with Ruby, Go, or Bash languages for automation testing and execution<br>
+    Participate in the test planning and product planning processes<br>
+    Conduct new feature research and design test cases<br>
+    Carry out manual tests and deliver clear status for testing areas in a timely manner<br>
+    Document and advocate the resolution of new bugs with developers and communicate the impact on customers to developers and support<br>
+    Constantly learn new things and maintain an overview of current technologies<br>
+    Communicate with other OpenShift quality engineers and developers in English<br>
+    Work in a fast-paced environment<br><br>
+Required skills<br><br>
+    Bachelor's degree or higher, or equivalent in computer science or a related field<br>
+    Familiarity with testing methodologies and techniques<br>
+    Knowledge of the UNIX or Linux operating system (any distribution)<br>
+    Programming language skills in Bash, shell, and Java<br>
+    Programming language skills in Go, Ruby, or Python<br>
+    Self-motivated and dedicated to learning and collaboration<br>
+    Ability to work in a fast-paced environment and learn quickly<br>
+    Familiarity with the following technologies is highly preferred: Java, JBoss, Node.js, Ruby, Python, etc., as well as database environments like MySQL, MongoDB, and PostgreSQL<br>
+    Good English communication skills, both written and verbal<br>
+    Knowledge of virtualization, Red Hat JBoss Middleware, Docker, Red Hat Enterprise Linux OpenStack Platform, and OpenShift is a plu[1-3年经验][10-15k]红帽软件（北京）有限公司北京海淀区工具软件1000以上http://www.redhat.com/zh/global/china2015-10-18 17:08:22

@@ -1,0 +1,15 @@
+www.neitui.me03http://www.neitui.me/j/409321Hadoop / Spark开发工程师北京市海淀区上地岗位职责：<br>
+1、负责基于Hadoop/Spark生态系统的研发；<br>
+2、负责基于搜索引擎（如ElasticSearch、Lucene等）的研发；<br>
+3、负责Hadoop/Spark集群调优；<br>
+4、负责对数据进行建模。<br><br><br>
+任职要求:<br>
+1、大学本科学历，计算机相关专业 。<br>
+2、对Hadoop / Spark 生态系统组件（HBase、Hive、Pig、ZooKeeper、Mahout等）熟悉，对Flume、Kafka熟悉；<br>
+3、熟悉linux开发环境；熟练掌握java开发；熟练掌握python、shell、perl中的一种；<br>
+4、熟悉Struts、Spring、Hibernate等J2EE开源框架；<br>
+5、有hadoop / Spark调优、统计学知识的优先考虑；<br>
+6、有机器学习经验者优先考虑；<br>
+7、熟悉ElasticSearch、Lucene优先；<br>
+8、能够读懂英文文档；<br>
+9、对新技术有孜孜不倦的热情。[3-5年经验][10-20k]北京升鑫网络科技有限公司最懂互联网企业的安全伙伴北京市海淀区上地企业服务15-50人http://qingteng.me2015-10-18 17:08:21
